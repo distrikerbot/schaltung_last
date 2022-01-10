@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Schaltung_Last-rescue)(type Legacy)(uri ${KIPRJMOD}/Schaltung_Last-rescue.lib)(options "")(descr ""))
+)

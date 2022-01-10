@@ -1,0 +1,361 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 0451015.MRL-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF 0451015.MRL-SamacSys_Parts-Schaltung-Last-rescue F 0 30 Y Y 1 F N
+F0 "F" 550 250 50 H V L CNN
+F1 "0451015.MRL-SamacSys_Parts-Schaltung-Last-rescue" 550 150 50 H V L CNN
+F2 "FUSC6127X294N" 550 50 50 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_451_453_datasheet.pdf.pdf" 550 -50 50 H I L CNN
+F4 "Littelfuse 15A FF Non-Resettable Surface Mount Fuse, 65 V" 550 -150 50 H I L CNN "Description"
+F5 "2.94" 550 -250 50 H I L CNN "Height"
+F6 "576-0451015.MRL" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/0451015MRL/?qs=bpnLQM2ZShzZ87Rm5CvzLA%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "0451015.MRL" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 0 500 0 N
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 155060GS75300-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF 155060GS75300-SamacSys_Parts-Schaltung-Last-rescue LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "155060GS75300-SamacSys_Parts-Schaltung-Last-rescue" 500 250 50 H V L BNN
+F2 "155060GS75300" 500 150 50 H I L BNN
+F3 "" 500 50 50 H I L BNN
+F4 "WURTH ELEKTRONIK - 155060GS75300 - LED, Green, SMD, 0603 [1608 Metric], 20 mA, 3.2 V, 525 nm" 500 -50 50 H I L BNN "Description"
+F5 "1.18" 500 -150 50 H I L BNN "Height"
+F6 "710-155060GS75300" 500 -250 50 H I L BNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/155060GS75300/?qs=GedFDFLaBXH9gWG%252BJzMHAg%3D%3D" 500 -350 50 H I L BNN "Mouser Price/Stock"
+F8 "Wurth Elektronik" 500 -450 50 H I L BNN "Manufacturer_Name"
+F9 "155060GS75300" 500 -550 50 H I L BNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 1N4148W-7-F-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF 1N4148W-7-F-SamacSys_Parts-Schaltung-Last-rescue D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "1N4148W-7-F-SamacSys_Parts-Schaltung-Last-rescue" 450 100 50 H V L CNN
+F2 "SOD3716X145N" 450 0 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/2/1N4148W-7-F.pdf" 450 -100 50 H I L CNN
+F4 "Diode Switching 150mA 100V 400mW SOD123 Diodes Inc 1N4148W-7-F Switching Diode 100V, 2-Pin SOD-123" 450 -200 50 H I L CNN "Description"
+F5 "1.45" 450 -300 50 H I L CNN "Height"
+F6 "621-1N4148W-F" 450 -400 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/1N4148W-7-F/?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D" 450 -500 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Inc." 450 -600 50 H I L CNN "Manufacturer_Name"
+F9 "1N4148W-7-F" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 100 200 -100 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 73099-0-73099-0
+#
+DEF 73099-0-73099-0 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "73099-0-73099-0" 650 200 50 H V L CNN
+F2 "730990" 650 100 50 H I L CNN
+F3 "http://assets.edgenet.com/bc247afe-c6d3-4b5e-af4b-80e7f9cda64b" 650 0 50 H I L CNN
+F4 "Test Plugs & Test Jacks RT ANG 4mm MOUNTING SAFETY JACK PCB BLK" 650 -100 50 H I L CNN "Description"
+F5 "11.5" 650 -200 50 H I L CNN "Height"
+F6 "Pomona Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "73099-0" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "565-73099-0" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Pomona-Electronics/73099-0/?qs=B6kkDfuK7%2FDgwxUVoyhL3Q%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 800 0 200 L 50 50 0 0 P
+X 5 5 800 -100 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# 73099-2-73099-2
+#
+DEF 73099-2-73099-2 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "73099-2-73099-2" 650 200 50 H V L CNN
+F2 "730992" 650 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/159/d73099_101-1649201.pdf" 650 0 50 H I L CNN
+F4 "Test Plugs & Test Jacks RT ANG 4mm MOUNTING SAFETY JACK PCB RED" 650 -100 50 H I L CNN "Description"
+F5 "14.9" 650 -200 50 H I L CNN "Height"
+F6 "Pomona Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "73099-2" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "565-73099-2" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Pomona-Electronics/73099-2/?qs=B6kkDfuK7%2FA6DpEPKtHqWw%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 800 0 200 L 50 50 0 0 P
+X 5 5 800 -100 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# AP2112K-3.3-ap2112K-3.3_fuer_strom-Schaltung-Last-rescue
+#
+DEF AP2112K-3.3-ap2112K-3.3_fuer_strom-Schaltung-Last-rescue U 0 10 Y Y 1 F N
+F0 "U" -200 225 50 H V L CNN
+F1 "AP2112K-3.3-ap2112K-3.3_fuer_strom-Schaltung-Last-rescue" 0 225 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-23-5" 0 325 50 H I C CNN
+F3 "" 0 100 50 H I C CNN
+$FPLIST
+ SOT?23?5*
+$ENDFPLIST
+DRAW
+S -200 175 200 -200 0 1 10 f
+X VIN 1 -300 100 100 R 50 50 1 1 W
+X GND 2 -300 -100 100 R 50 50 1 1 W
+X EN 3 -300 0 100 R 50 50 1 1 I
+X NC 4 300 -100 100 L 50 50 1 1 N
+X VOUT 5 300 100 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# G5RL-1A-E-TV8_DC5-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF G5RL-1A-E-TV8_DC5-SamacSys_Parts-Schaltung-Last-rescue K 0 30 Y Y 1 F N
+F0 "K" 1150 300 50 H V L CNN
+F1 "G5RL-1A-E-TV8_DC5-SamacSys_Parts-Schaltung-Last-rescue" 1150 200 50 H V L CNN
+F2 "G5RL1AETV8DC5" 1150 100 50 H I L CNN
+F3 "" 1150 0 50 H I L CNN
+F4 "General Purpose Relays TV8 Rating DC5 1a contact 16A" 1150 -100 50 H I L CNN "Description"
+F5 "15.7" 1150 -200 50 H I L CNN "Height"
+F6 "653-G5RL1AETV8DC5" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/G5RL-1A-E-TV8-DC5?qs=TF2qWOo%2FJh2EaNf45tWRWw%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Omron Electronics" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "G5RL-1A-E-TV8 DC5" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+X COIL_1 1 0 0 200 R 50 50 0 0 P
+X N.O._1 3 0 -100 200 R 50 50 0 0 P
+X COM_1 4 0 -200 200 R 50 50 0 0 P
+X COM_2 5 1300 -200 200 L 50 50 0 0 P
+X N.O._2 6 1300 -100 200 L 50 50 0 0 P
+X COIL_2 8 1300 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# MCP6L01Rx-xOT-mcp6l91rt-eot_fuer_last-Schaltung-Last-rescue
+#
+DEF MCP6L01Rx-xOT-mcp6l91rt-eot_fuer_last-Schaltung-Last-rescue U 0 5 Y Y 1 F N
+F0 "U" 0 200 50 H V L CNN
+F1 "MCP6L01Rx-xOT-mcp6l91rt-eot_fuer_last-Schaltung-Last-rescue" 0 -200 50 H V L CNN
+F2 "Package_TO_SOT_SMD:SOT-23-5" 0 0 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+$FPLIST
+ SOT?23*
+$ENDFPLIST
+DRAW
+P 4 0 1 10 -200 200 200 0 -200 -200 -200 200 f
+X V+ 2 -100 300 150 D 50 50 0 1 W
+X V- 5 -100 -300 150 U 50 50 0 1 W
+X ~ 1 300 0 100 L 50 50 1 1 O
+X - 3 -300 100 100 R 50 50 1 1 I
+X + 4 -300 -100 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MI0805K400R-10-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF MI0805K400R-10-SamacSys_Parts-Schaltung-Last-rescue FB 0 30 Y Y 1 F N
+F0 "FB" 650 300 50 H V L CNN
+F1 "MI0805K400R-10-SamacSys_Parts-Schaltung-Last-rescue" 650 200 50 H V L CNN
+F2 "BEADC2012X110N" 650 100 50 H I L CNN
+F3 "" 650 0 50 H I L CNN
+F4 "EMI Ferrite Chip Bead EMI Ferrite Chip Bead" 650 -100 50 H I L CNN "Description"
+F5 "1.1" 650 -200 50 H I L CNN "Height"
+F6 "N/A" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Laird/MI0805K400R-10/?qs=PzGy0jfpSMtYiKtvyx%2FtrQ%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Laird Technologies" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MI0805K400R-10" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# MJE15032G-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF MJE15032G-SamacSys_Parts-Schaltung-Last-rescue Q 0 30 Y Y 1 F N
+F0 "Q" 550 50 50 H V L CNN
+F1 "MJE15032G-SamacSys_Parts-Schaltung-Last-rescue" 550 -50 50 H V L CNN
+F2 "TO254P483X1010X2035-3P" 550 -150 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/MJE15032-D.PDF" 550 -250 50 H I L CNN
+F4 "MJE15032G, NPN Bipolar Transistor,  8 A 250 V HFE:10 30 MHz Power, 3-Pin TO-220AB" 550 -350 50 H I L CNN "Description"
+F5 "4.83" 550 -450 50 H I L CNN "Height"
+F6 "863-MJE15032G" 550 -550 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MJE15032G?qs=HVbQlW5zcXUS0E66TrcxZw%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F8 "ON Semiconductor" 550 -750 50 H I L CNN "Manufacturer_Name"
+F9 "MJE15032G" 550 -850 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+C 350 0 158 0 1 10 N
+P 2 0 1 6 100 0 300 0 N
+P 2 0 1 6 300 -50 400 -150 N
+P 2 0 1 6 300 50 400 150 N
+P 2 0 1 20 300 100 300 -100 N
+P 2 0 1 6 400 -150 400 -200 N
+P 2 0 1 6 400 150 400 200 N
+P 4 0 1 10 330 -100 350 -80 370 -120 330 -100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 300 100 D 50 50 0 0 P
+X ~ 3 400 -300 100 U 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# MJL21194G-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF MJL21194G-SamacSys_Parts-Schaltung-Last-rescue Q 0 30 Y Y 1 F N
+F0 "Q" 550 50 50 H V L CNN
+F1 "MJL21194G-SamacSys_Parts-Schaltung-Last-rescue" 550 -50 50 H V L CNN
+F2 "TO545P530X1980X2940-3P" 550 -150 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/MJL21193-D.PDF" 550 -250 50 H I L CNN
+F4 "ON SEMICONDUCTOR - MJL21194G - TRANSISTOR, NPN, 250V, 16A, TO-264" 550 -350 50 H I L CNN "Description"
+F5 "5.3" 550 -450 50 H I L CNN "Height"
+F6 "863-MJL21194G" 550 -550 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MJL21194G?qs=HVbQlW5zcXUwv3gzJNmWAg%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F8 "ON Semiconductor" 550 -750 50 H I L CNN "Manufacturer_Name"
+F9 "MJL21194G" 550 -850 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+C 350 0 158 0 1 10 N
+P 2 0 1 6 100 0 300 0 N
+P 2 0 1 6 300 -50 400 -150 N
+P 2 0 1 6 300 50 400 150 N
+P 2 0 1 20 300 100 300 -100 N
+P 2 0 1 6 400 -150 400 -200 N
+P 2 0 1 6 400 150 400 200 N
+P 4 0 1 10 330 -100 350 -80 370 -120 330 -100 F
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 300 100 D 50 50 0 0 P
+X ~ 3 400 -300 100 U 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# PTS645SJM73JSMTR92_LFS-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF PTS645SJM73JSMTR92_LFS-SamacSys_Parts-Schaltung-Last-rescue S 0 30 Y Y 1 F N
+F0 "S" 1050 300 50 H V L CNN
+F1 "PTS645SJM73JSMTR92_LFS-SamacSys_Parts-Schaltung-Last-rescue" 1050 200 50 H V L CNN
+F2 "PTS645SJM73JSMTR92LFS" 1050 100 50 H I L CNN
+F3 "https://www.mouser.de/datasheet/2/60/datasheet-1852825.pdf" 1050 0 50 H I L CNN
+F4 "Tactile Switches 50mA 12VDC, SPST NO, 160 gf, 7.3mm H square act, SMT J-type" 1050 -100 50 H I L CNN "Description"
+F5 "7.5" 1050 -200 50 H I L CNN "Height"
+F6 "611-SJM73JSMTR92LFS" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CK/PTS645SJM73JSMTR92-LFS/?qs=TiOZkKH1s2RSGwGU8Z0Jpw%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "C & K COMPONENTS" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "PTS645SJM73JSMTR92 LFS" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -200 200 -200 200 100 N
+X NO_1 A1 0 0 200 R 50 50 0 0 P
+X NO_2 B1 1200 0 200 L 50 50 0 0 P
+X COM_1 C1 0 -100 200 R 50 50 0 0 P
+X COM_2 D1 1200 -100 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# SN65220IDBVRQ1-SamacSys_Parts-Schaltung-Last-rescue
+#
+DEF SN65220IDBVRQ1-SamacSys_Parts-Schaltung-Last-rescue IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "SN65220IDBVRQ1-SamacSys_Parts-Schaltung-Last-rescue" 1050 200 50 H V L CNN
+F2 "SOT95P280X145-6N" 1050 100 50 H I L CNN
+F3 "https://www.arrow.com/en/products/sn65220idbvrq1/texas-instruments" 1050 0 50 H I L CNN
+F4 "Surge Suppressors Transient Voltage Surge Suppressors Automotive" 1050 -100 50 H I L CNN "Description"
+F5 "1.45" 1050 -200 50 H I L CNN "Height"
+F6 "595-SN65220IDBVRQ1" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN65220IDBVRQ1/?qs=6siQ5y5nVCyeR9%2FxzhUeUA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SN65220IDBVRQ1" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+X NC_1 1 0 0 200 R 50 50 0 0 P
+X GND_1 2 0 -100 200 R 50 50 0 0 P
+X NC_2 3 0 -200 200 R 50 50 0 0 P
+X B 4 1200 -200 200 L 50 50 0 0 P
+X GND_2 5 1200 -100 200 L 50 50 0 0 P
+X A 6 1200 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# TMCS1100_Voltage_Sensor-TMSC1100_Sensor_Voltage-Schaltung-Last-rescue
+#
+DEF TMCS1100_Voltage_Sensor-TMSC1100_Sensor_Voltage-Schaltung-Last-rescue U 0 40 Y Y 1 F N
+F0 "U" 0 350 50 H V C CNN
+F1 "TMCS1100_Voltage_Sensor-TMSC1100_Sensor_Voltage-Schaltung-Last-rescue" 50 -450 50 H V C CNN
+F2 "" 50 -150 50 H I C CNN
+F3 "" 50 -150 50 H I C CNN
+DRAW
+C -212 270 11 0 1 0 N
+S -250 300 300 -350 0 1 0 f
+X IN+ 1 -350 200 100 R 50 50 1 1 I
+X IN+ 2 -350 50 100 R 50 50 1 1 I
+X IN- 3 -350 -100 100 R 50 50 1 1 I
+X IN- 4 -350 -250 100 R 50 50 1 1 I
+X GND 5 400 -250 100 L 50 50 1 1 B
+X VREF 6 400 -100 100 L 50 50 1 1 B
+X VOUT 7 400 50 100 L 50 50 1 1 O
+X VS 8 400 200 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# USB_B_Micro-Connector-Schaltung-Last-rescue
+#
+DEF USB_B_Micro-Connector-Schaltung-Last-rescue J 0 40 Y Y 1 F N
+F0 "J" -200 450 50 H V L CNN
+F1 "USB_B_Micro-Connector-Schaltung-Last-rescue" -200 350 50 H V L CNN
+F2 "" 150 -50 50 H I C CNN
+F3 "" 150 -50 50 H I C CNN
+$FPLIST
+ USB*
+$ENDFPLIST
+DRAW
+C -150 85 25 0 1 10 F
+C -25 135 15 0 1 10 F
+S -200 -300 200 300 0 1 10 f
+S -5 -300 5 -270 0 1 0 N
+S 10 50 -20 20 0 1 10 F
+S 200 -205 170 -195 0 1 0 N
+S 200 -105 170 -95 0 1 0 N
+S 200 -5 170 5 0 1 0 N
+S 200 195 170 205 0 1 0 N
+P 2 0 1 10 -75 85 25 85 N
+P 4 0 1 10 -125 85 -100 85 -50 135 -25 135 N
+P 4 0 1 10 -100 85 -75 85 -50 35 0 35 N
+P 4 0 1 10 25 110 25 60 75 85 25 110 F
+P 5 0 1 0 -170 220 -70 220 -80 190 -160 190 -170 220 F
+P 9 0 1 0 -185 230 -185 220 -175 190 -175 180 -65 180 -65 190 -55 220 -55 230 -185 230 N
+X VBUS 1 300 200 100 L 50 50 1 1 w
+X D- 2 300 -100 100 L 50 50 1 1 P
+X D+ 3 300 0 100 L 50 50 1 1 P
+X ID 4 300 -200 100 L 50 50 1 1 P
+X GND 5 0 -400 100 U 50 50 1 1 w
+X Shield 6 -100 -400 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
